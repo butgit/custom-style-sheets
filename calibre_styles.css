@@ -1,0 +1,101 @@
+body {
+  position: relative !important;
+  left: 50% !important;
+  transform: translate(-50%, 0%) !important;
+  text-align: right !important;
+
+	max-width: 544px !important;
+	font-family: "Noto Sans", sans-serif !important;
+	font-size: 16px !important;
+	line-height: 27px !important;
+	padding: 17px !important;
+}
+
+p {
+  text-align: left !important;
+font-family: "Noto Sans", sans-serif !important;
+}
+
+h1 {
+	font-size: 33px !important;
+	line-height: 52px !important;
+	margin-bottom: 27px !important;
+}
+.title {
+	font-size: 42px !important;
+	line-height: 65px !important;
+	margin-bottom: 27px !important;
+}
+h2, .h2 {
+	font-size: 26px !important;
+	line-height: 42px !important;
+	margin-top: 44px !important;
+	margin-bottom: 17px !important;
+}
+h3 {
+	font-size: 20px !important;
+	line-height: 33px !important;
+	margin-top: 27px !important;
+	margin-bottom: 11px !important;
+}
+h4 {
+	font-size: 16px !important;
+	line-height: 27px !important;
+	font-weight: bold !important;
+	margin-bottom: 7px !important;
+}
+p, ul, ol, blockquote, pre, .alert, .note, .box, .footnotes {
+	margin-bottom: 27px !important;
+}
+ul, ol {
+	margin-left: 27px !important;
+}
+li {
+	margin-bottom: 11px !important;
+}
+blockquote {
+	padding-left: 17px !important;
+	border-style: solid !important;
+	border-color: rgba(0,0,0,0.15) !important;
+	border-width: 0 0 0 7px !important;
+}
+sub, sup {
+	padding: 0 1px !important;
+}
+code, pre, kbd {
+	font-size: 15px !important;
+}
+code {
+	background-color: rgba(0,0,0,0.08) !important;
+	padding: 3px 4px !important;
+	border-radius: 7px !important;
+	margin: 0 1px !important;
+}
+pre {
+	padding: 11px !important;
+	border-style: solid !important;
+	border-color: rgba(0,0,0,0.15) !important;
+	border-width: 0 0 0 7px !important;
+}
+kbd {
+	background-color: #fff !important;
+	padding: 3px 4px !important;
+	border-radius: 4px !important;
+	box-shadow: 0 0 4px 0 rgba(0,0,0,0.45) !important;
+	margin: 0 1px !important;
+}
+.alert, .note, .box {
+	padding: 17px !important;
+}
+.footnotes {
+	font-size: 13px !important;
+	line-height: 23px !important;
+	padding-top: 17px !important;
+	border-top: 1px dotted rgba(0,0,0,0.15) !important;
+}
+.footnotes p {
+	margin-bottom: 17px !important;
+}
+ul ul, ul ol, ol ul, ol ol, blockquote.right p, blockquote.left p, .alert :last-child, .note :last-child, .box :last-child, .footnotes :last-child {
+	margin-bottom: 0 !important;
+}
