@@ -13,7 +13,7 @@ body {
     padding: 17px !important;
 }
 
-h1 * {
+h1 {
     font-size: 33px !important;
     line-height: 52px !important;
     margin-bottom: 27px !important;
@@ -25,24 +25,25 @@ h1 * {
     margin-bottom: 27px !important;
 }
 
-h2 *,
-.h2 *,
+h2,
+.h2,
 .h2a,
-.h2 {
+h2 *,
+.h2 * {
     font-size: 26px !important;
     line-height: 42px !important;
     margin-top: 44px !important;
     margin-bottom: 17px !important;
 }
 
-h3 * {
+h3 {
     font-size: 20px !important;
     line-height: 33px !important;
     margin-top: 27px !important;
     margin-bottom: 11px !important;
 }
 
-h4 * {
+h4 {
     font-size: 16px !important;
     line-height: 27px !important;
     font-weight: bold !important;
